@@ -1,8 +1,8 @@
-### Hola 👋
+### Hello👋
 
-Hola, soy Ricardo Desarrollador Web. Desde de pequeño siempre supe que un huracán me llevaría a algún lugar, y una vez realmente terminé en otro país, en Santiago de Chile, Estudiando en una escuela de tecnología. Allí comenzó todo, ciertamente sabia que estaba interesado por aprender acerca de desarrollo web y movil. Aquí empezó esta linda aventura, tengo 22 años, soy un estudiante de Desarrollo Front End estudiando para ser Full Stack, alegre, perseverante y amante de los retos personales que esta dispuesto a aportar ideas y soluciones para el desarrollo de tu proyecto.
+Hi, I'm Ricardo Web Developer. Since I was a kid I always knew that a hurricane would take me somewhere, and once I actually ended up in another country, in Santiago de Chile, studying in a technology school. There it all started, I certainly knew I was interested in learning about web and mobile development. Here began this beautiful adventure, for reasons of life ends up moving again, now I'm in the United States, CO. I'm 23 years old, I'm a student of Front End Development studying to be Full Stack, cheerful, perseverant and lover of personal challenges that is willing to contribute ideas and solutions for the development of your project.
 
-- 🔭 Actualmente estoy trabajando como front end engineer at Altiiro App.
-- 🌱 Actualmente estoy perfeccionando JavaScript con React y Vue js.
-- 👯 Estoy buscando colaborar en el desarrollo de paginas web y proyectos laborales.
-- 📫 Como contactarme : RicardoAndresD6@gmail.com.
+- 🔭 I'm currently working as a full stack engineer at VGroup.
+- 🌱 I'm currently improving JavaScript with Vue js.
+- 👯 I'm looking to collaborate on web development and work projects.
+- 📫 How to contact me : RicardoAndresD6@gmail.com.
