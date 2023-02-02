@@ -5,6 +5,6 @@ Hi, I'm Ricardo Full Stack Developer, Laravel/Vue Js, Flutter/Dart eager to lear
 
 - 🔭 I'm currently working as a full stack engineer at VGroup.
 - 🌱 I'm currently improving JavaScript with Vue js and React.
-- - 🌱 I'm currently improving Flutter/Dart.
+- 🌱 I'm currently improving Flutter/Dart.
 - 👯 I'm looking to collaborate on web development and work projects.
 - 📫 How to contact me : RicardoAndresD6@gmail.com
